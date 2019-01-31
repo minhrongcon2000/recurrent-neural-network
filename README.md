@@ -5,6 +5,7 @@ This project uses recurrent neural network (RNN) in predicting the sum of two bi
 ## Dependencies
 * numpy
 * matplotlib
+
 Use [pip](https://pypi.org/project/pip/) to install any missing dependencies
 
 ## Basic Usage
